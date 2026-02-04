@@ -1,0 +1,41 @@
+body {
+    background: #f0f2f5;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 350px;
+    background: white;
+    padding: 25px;
+    margin: 100px auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h2 {
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+#strengthText {
+    text-align: center;
+    margin: 15px 0;
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    font-size: 14px;
+    margin: 5px 0;
+    color: red;
+}
